@@ -1,7 +1,0 @@
-E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator1\bin\Debug\calculator1.exe.config
-E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator1\bin\Debug\calculator1.exe
-E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator1\bin\Debug\calculator1.pdb
-E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator1\obj\Debug\calculator1.csprojAssemblyReference.cache
-E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator1\obj\Debug\calculator1.csproj.CoreCompileInputs.cache
-E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator1\obj\Debug\calculator1.exe
-E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator1\obj\Debug\calculator1.pdb
