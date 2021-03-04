@@ -1,0 +1,10 @@
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\bin\Debug\calculator2.exe.config
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\bin\Debug\calculator2.exe
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\bin\Debug\calculator2.pdb
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\obj\Debug\calculator2.csprojAssemblyReference.cache
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\obj\Debug\calculator2.Form1.resources
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\obj\Debug\calculator2.csproj.GenerateResource.cache
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\obj\Debug\calculator2.csproj.CoreCompileInputs.cache
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\obj\Debug\calculator2.exe
+E:\计科卓工班\大二下\软件构造基础\作业\第一次作业\calculator2\obj\Debug\calculator2.pdb
