@@ -1,0 +1,7 @@
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\IntegerArray\bin\Debug\IntegerArray.exe.config
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\IntegerArray\bin\Debug\IntegerArray.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\IntegerArray\bin\Debug\IntegerArray.pdb
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\IntegerArray\obj\Debug\IntegerArray.csprojAssemblyReference.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\IntegerArray\obj\Debug\IntegerArray.csproj.CoreCompileInputs.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\IntegerArray\obj\Debug\IntegerArray.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\IntegerArray\obj\Debug\IntegerArray.pdb

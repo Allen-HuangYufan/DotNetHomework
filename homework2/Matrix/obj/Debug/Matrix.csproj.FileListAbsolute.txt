@@ -1,0 +1,7 @@
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\Matrix\bin\Debug\Matrix.exe.config
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\Matrix\bin\Debug\Matrix.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\Matrix\bin\Debug\Matrix.pdb
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\Matrix\obj\Debug\Matrix.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\Matrix\obj\Debug\Matrix.pdb

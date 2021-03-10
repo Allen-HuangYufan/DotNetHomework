@@ -1,0 +1,7 @@
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\Seive\bin\Debug\Seive.exe.config
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\Seive\bin\Debug\Seive.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\Seive\bin\Debug\Seive.pdb
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\Seive\obj\Debug\Seive.csproj.CoreCompileInputs.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\Seive\obj\Debug\Seive.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\Seive\obj\Debug\Seive.pdb
+E:\计科卓工班\大二下\软件构造基础\作业\homework2\homework2\Seive\obj\Debug\Seive.csprojAssemblyReference.cache
