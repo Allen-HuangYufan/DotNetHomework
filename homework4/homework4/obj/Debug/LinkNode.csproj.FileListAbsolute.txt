@@ -1,0 +1,7 @@
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\homework4\bin\Debug\homework4.exe.config
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\homework4\bin\Debug\homework4.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\homework4\bin\Debug\homework4.pdb
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\homework4\obj\Debug\LinkNode.csprojAssemblyReference.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\homework4\obj\Debug\LinkNode.csproj.CoreCompileInputs.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\homework4\obj\Debug\homework4.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\homework4\obj\Debug\homework4.pdb

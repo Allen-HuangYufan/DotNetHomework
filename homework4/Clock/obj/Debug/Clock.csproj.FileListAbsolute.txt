@@ -1,0 +1,6 @@
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\Clock\bin\Debug\Clock.exe.config
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\Clock\bin\Debug\Clock.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\Clock\bin\Debug\Clock.pdb
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\Clock\obj\Debug\Clock.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework4\Clock\obj\Debug\Clock.pdb
