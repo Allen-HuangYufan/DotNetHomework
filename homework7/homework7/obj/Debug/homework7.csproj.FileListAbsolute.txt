@@ -1,0 +1,10 @@
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\bin\Debug\homework7.exe.config
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\bin\Debug\homework7.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\bin\Debug\homework7.pdb
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\obj\Debug\homework7.csprojAssemblyReference.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\obj\Debug\homework7.Form1.resources
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\obj\Debug\homework7.Properties.Resources.resources
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\obj\Debug\homework7.csproj.GenerateResource.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\obj\Debug\homework7.csproj.CoreCompileInputs.cache
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\obj\Debug\homework7.exe
+E:\计科卓工班\大二下\软件构造基础\作业\homework7\homework7\obj\Debug\homework7.pdb
