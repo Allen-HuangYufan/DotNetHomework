@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form", "Form\Form.csproj", "{7328BC33-A1B8-4FC5-977F-3882DE476B71}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5} = {CA98A8E0-9173-4C2A-8629-C3A8512286C5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{CA98A8E0-9173-4C2A-8629-C3A8512286C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7328BC33-A1B8-4FC5-977F-3882DE476B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7328BC33-A1B8-4FC5-977F-3882DE476B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7328BC33-A1B8-4FC5-977F-3882DE476B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7328BC33-A1B8-4FC5-977F-3882DE476B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {357FEC00-AB40-44EB-B823-98AC8B73F5C8}
+	EndGlobalSection
+EndGlobal
